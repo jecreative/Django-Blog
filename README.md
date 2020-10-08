@@ -1,6 +1,6 @@
 ## Django Blog
 
-A simple blog app built with Django and Python.
+A simple blog app built with Python and the Django framework.
 
 Created following Corey Schafer's series on Django.
 
